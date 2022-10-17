@@ -1,0 +1,13 @@
+C:\Users\turke\source\repos\BankamatikSimulasyonu\bin\Debug\BankamatikSimulasyonu.exe.config
+C:\Users\turke\source\repos\BankamatikSimulasyonu\bin\Debug\BankamatikSimulasyonu.exe
+C:\Users\turke\source\repos\BankamatikSimulasyonu\bin\Debug\BankamatikSimulasyonu.pdb
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.frmKayit.resources
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.Properties.Resources.resources
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.exe
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.pdb
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.frmGiris.resources
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.frmHavale.resources
+C:\Users\turke\source\repos\BankamatikSimulasyonu\obj\Debug\BankamatikSimulasyonu.frmHareketler.resources

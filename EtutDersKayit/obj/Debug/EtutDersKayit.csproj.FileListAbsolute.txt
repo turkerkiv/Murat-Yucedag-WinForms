@@ -1,0 +1,10 @@
+C:\Users\turke\source\repos\EtutDersKayit\bin\Debug\EtutDersKayit.exe.config
+C:\Users\turke\source\repos\EtutDersKayit\bin\Debug\EtutDersKayit.exe
+C:\Users\turke\source\repos\EtutDersKayit\bin\Debug\EtutDersKayit.pdb
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.Properties.Resources.resources
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.exe
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.pdb
+C:\Users\turke\source\repos\EtutDersKayit\obj\Debug\EtutDersKayit.Form1.resources

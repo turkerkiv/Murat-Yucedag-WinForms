@@ -1,0 +1,10 @@
+C:\Users\turke\source\repos\RezervasyonTest\bin\Debug\RezervasyonTest.exe.config
+C:\Users\turke\source\repos\RezervasyonTest\bin\Debug\RezervasyonTest.exe
+C:\Users\turke\source\repos\RezervasyonTest\bin\Debug\RezervasyonTest.pdb
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.Form1.resources
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.Properties.Resources.resources
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.exe
+C:\Users\turke\source\repos\RezervasyonTest\obj\Debug\RezervasyonTest.pdb

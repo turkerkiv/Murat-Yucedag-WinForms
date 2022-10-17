@@ -1,0 +1,10 @@
+C:\Users\turke\source\repos\PetrolOfisi\bin\Debug\PetrolOfisi.exe.config
+C:\Users\turke\source\repos\PetrolOfisi\bin\Debug\PetrolOfisi.exe
+C:\Users\turke\source\repos\PetrolOfisi\bin\Debug\PetrolOfisi.pdb
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.Form1.resources
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.Properties.Resources.resources
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.exe
+C:\Users\turke\source\repos\PetrolOfisi\obj\Debug\PetrolOfisi.pdb

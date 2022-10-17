@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31612.314
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oy_Istatistik", "Oy_Istatistik.csproj", "{ADBD2E81-9CD2-4621-AC08-4058DE79CF2B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADBD2E81-9CD2-4621-AC08-4058DE79CF2B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADBD2E81-9CD2-4621-AC08-4058DE79CF2B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADBD2E81-9CD2-4621-AC08-4058DE79CF2B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADBD2E81-9CD2-4621-AC08-4058DE79CF2B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7F5EFF87-785B-46FA-A02D-FAF9C96B00A4}
+	EndGlobalSection
+EndGlobal

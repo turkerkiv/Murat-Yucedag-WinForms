@@ -1,0 +1,10 @@
+C:\Users\turke\source\repos\VeritabaniSifreleme\bin\Debug\VeritabaniSifreleme.exe.config
+C:\Users\turke\source\repos\VeritabaniSifreleme\bin\Debug\VeritabaniSifreleme.exe
+C:\Users\turke\source\repos\VeritabaniSifreleme\bin\Debug\VeritabaniSifreleme.pdb
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.Form1.resources
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.Properties.Resources.resources
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.exe
+C:\Users\turke\source\repos\VeritabaniSifreleme\obj\Debug\VeritabaniSifreleme.pdb

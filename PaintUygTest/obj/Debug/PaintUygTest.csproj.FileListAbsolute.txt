@@ -1,0 +1,10 @@
+C:\Users\turke\source\repos\PaintUygTest\bin\Debug\PaintUygTest.exe.config
+C:\Users\turke\source\repos\PaintUygTest\bin\Debug\PaintUygTest.exe
+C:\Users\turke\source\repos\PaintUygTest\bin\Debug\PaintUygTest.pdb
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.Form1.resources
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.Properties.Resources.resources
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.exe
+C:\Users\turke\source\repos\PaintUygTest\obj\Debug\PaintUygTest.pdb

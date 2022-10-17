@@ -1,0 +1,18 @@
+malzeme güncelleme eklenebilir.
+satış yapma ve kasayı güncelleme eklenebilir ama amacı o değil şu anlık.
+kar yüzdesini biz seçebiliriz yani eklenebilir.
+gereksiz tablo veya kodlardan kurtulunabilir.
+
+hocanın yaptığı gibi tüm malzemelerin maliyetlerini bir listboxa yazdırıp sonra simitin komple kaç maliyeti olduğunu hesaplatabilirdik.
+sonra onun üzerinden satış fiyatı da belirleyebilirdik. Öyle de güzel olurdu. Ya da benimkini geliştirdik mi de olur.
+Hatta güzelleştirilirse daha profesyonel olur.comboboxtan her birini seçip her birinin gramını girdik mi toplam maliyeti oto hesaplardı.
+veya daha da iyisi hocanınki ile benimkini birleştirip şu anki fırın tablosuna veri girişi yapılırdı listbox yerine. 
+Urunidsi seçtiğimiz ürün olanların maliyetini sum lardık. ve ortadaki ürün girişi boş olan yerlere getiririz.
+sonra ürünleri güncelleriz. ayrıca gram için 1000e bölümünü yaptırtabiliriz. veya sqltarafında decimali .3 yaparsak 12.000 olur 12000gram
+
+
+yani birçok türlü hesaplanabilir.
+
+Amaç maliyeti hesaplamak ve satış fiyatını öğrenmeydi. hocanın ne yapmak istediğini anlayamadığım için kendim bi şeyler yaptım.
+hoca ile başlayınca ve kendim devam edince karışık bi şey ortaya çıktı.
+Pek bitmiş bi proje olmasa da gayet güzel bir mantığı vardı.

@@ -1,0 +1,10 @@
+C:\Users\turke\source\repos\SorguProje\bin\Debug\SorguProje.exe.config
+C:\Users\turke\source\repos\SorguProje\bin\Debug\SorguProje.exe
+C:\Users\turke\source\repos\SorguProje\bin\Debug\SorguProje.pdb
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.Form1.resources
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.Properties.Resources.resources
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.exe
+C:\Users\turke\source\repos\SorguProje\obj\Debug\SorguProje.pdb

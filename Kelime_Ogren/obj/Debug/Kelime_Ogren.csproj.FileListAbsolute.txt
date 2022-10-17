@@ -1,0 +1,11 @@
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.AssemblyReference.cache
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.Form1.resources
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.Properties.Resources.resources
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.GenerateResource.cache
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.csproj.CoreCompileInputs.cache
+C:\Users\turke\source\repos\Kelime_Ogren\bin\Debug\Kelime_Ogren.exe.config
+C:\Users\turke\source\repos\Kelime_Ogren\bin\Debug\Kelime_Ogren.exe
+C:\Users\turke\source\repos\Kelime_Ogren\bin\Debug\Kelime_Ogren.pdb
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.exe
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.pdb
+C:\Users\turke\source\repos\Kelime_Ogren\obj\Debug\Kelime_Ogren.Form2.resources
